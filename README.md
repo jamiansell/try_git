@@ -1,6 +1,6 @@
 This is a repo for learning git and testing out potential new ways of doing things. 
 
-## Tip #1 - how to use static images in github
+## Tip #1 - How to use static images in github
 
 Rather than hosting images externally, use issue comments to add images if they are necessary for completing the task within the issue. For example, if the task is to update the README and in order to do that most effectively, it should include images, add the images to the comments for that issue so that you can link to them from the readme (or anywhere else they should be used in the repo like, for example, wiki pages)
 
